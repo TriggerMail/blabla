@@ -1,1 +1,1 @@
-# blabla
+Congrats on your new repo: blabla!. CircleCI is set up for you here: https://circleci.com/gh/TriggerMail/blabla
